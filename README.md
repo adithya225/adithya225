@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning 
 - 📫 How to reach me ...
               mail    : vadlamoodiadithya@gmail.com
-              ph.no   : 9381363502
               linkdln : https://linkedin.com/in/adithya-v-920b351b2
 
 <!---
